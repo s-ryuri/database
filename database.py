@@ -24,3 +24,4 @@ for row in sheet.rows:
 	queryString += ");"
 	sqlFile.write(queryString + '\n')
 sqlFile.close()
+#data
